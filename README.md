@@ -1,6 +1,6 @@
 # Yoga Interface
 
-<img src="./assets/example-image.png" alt="logo-yoga">
+<img src="./assets/example-image.png" width="250px" alt="logo-yoga">
 
 > Resultado do projeto Yoga.
 
